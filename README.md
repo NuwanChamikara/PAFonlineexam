@@ -1,7 +1,4 @@
 
-# Sell-N-Buy | e-commerce Project 
-
-![enter image description here](https://raw.githubusercontent.com/Dilshan97/SellNBy-e-commerce-system-PAF/master/Frontend/public/assets/img/sellNby.png?token=AGSG26GPD2KXED6OMFXA22C45GTI6)
 
 This Project based on the 3 Year Programming Application and Frameworks Module. 
 
